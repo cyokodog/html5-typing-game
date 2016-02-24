@@ -1,0 +1,29 @@
+{
+  "name": "typing",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "gulp watch",
+    "test": "gulp jshint"
+  },
+  "author": "cyokodog",
+  "devDependencies": {
+    "browser-sync": "2.11.1",
+    "fs-extra": "0.26.5",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.0",
+    "gulp-help": "1.6.1",
+    "gulp-jshint": "2.0.0",
+    "gulp-load-plugins": "1.2.0",
+    "gulp-using": "0.1.0",
+    "gulp-util": "3.0.7",
+    "jshint": "2.9.1",
+    "jshint-stylish": "2.1.0",
+    "run-sequence": "1.1.5"
+  },
+  "dependencies": {
+    "jquery": "2.2.1",
+    "timbre": "14.11.25",
+    "underscore": "1.8.3"
+  }
+}

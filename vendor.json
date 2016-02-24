@@ -1,0 +1,12 @@
+{
+  "paths": [
+    {
+      "src": "jquery/dist/jquery.js",
+      "min": "jquery/dist/jquery.min.js"
+    },
+    {
+      "src": "underscore/underscore.js",
+      "min": "underscore/underscore-min.js"
+    }
+  ]
+}
